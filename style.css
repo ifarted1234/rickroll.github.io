@@ -1,0 +1,8 @@
+/* Fonts from Google Fonts - https://fonts.google.com */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
+body {
+  background-color: orange;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+}
